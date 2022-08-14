@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "541250721177",
+    "project_id": "tez-app-e7a87",
+    "storage_bucket": "tez-app-e7a87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541250721177:android:e4848e81370c2aefbfef08",
+        "android_client_info": {
+          "package_name": "com.example.tez_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541250721177-1322ucrrh40tdhkf8q491vs7vnmiuhgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tez_app",
+            "certificate_hash": "a941f577a46d2cd9ccbaf41f70c16ddb286e87ad"
+          }
+        },
+        {
+          "client_id": "541250721177-l0l53pqplfaik9jb38f7cdsig4lrubkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWIcIllFdSrEm6RmNJhdQoMXOyIH7gzMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541250721177-l0l53pqplfaik9jb38f7cdsig4lrubkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
